@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-RD1Y8eMERe)
+- Live Site URL: [Live site](https://tedobanks.github.io/3-column-product-info/)
 
 ## My process
 
